@@ -2,3 +2,4 @@ git first trial
 staging aera add first
 -git add
 -git commit
+-git remove
