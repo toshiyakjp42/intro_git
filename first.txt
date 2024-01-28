@@ -3,3 +3,4 @@ staging aera add first
 -git add
 -git commit
 -git remove
+-git status
